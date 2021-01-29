@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  font-size: 45px;
+  color: #fe5e53;
+  font-family: "ArcadeClassic";
+}
+.city {
+  position: absolute;
+  top: 200px;
+  left: 115px;
+  text-align: left;
+}
