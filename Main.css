@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "ArcadeClassic";
+  src: url("ArcadeClassic.ttf");
+}
+
+ul {
+  list-style: none;
+  font-size: 35px;
+  color: #fe5e53;
+  font-family: "ArcadeClassic";
+  background: linear-gradient(#0c81be,#f5f4f5,#fc5d53);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(4px 4px #141213);
+}
+
+.main-weather {
+  position: absolute;
+  top: 10px;
+  left: 185px;
+}
+.stats {
+  position: absolute;
+  top: 200px;
+  right: 150px;
+  text-align: right;
+}
+.temp {
+  font-size: 45px;
+}
+.celsius-link {
+  color: #fe5e53;
+  
+}
+
+.celsius-link:hover {
+  color: #fe5e53;
+}
+.farenheit-link {
+  color: #fe5e53;
+  
+}
+.farenheit-link:hover {
+  color: #fe5e53;
+}
