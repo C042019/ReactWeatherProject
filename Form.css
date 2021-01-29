@@ -1,0 +1,17 @@
+.search {
+  font-size: 27px;
+  border: 2px, solid, #a62b8e;
+  border-radius: 10px;
+  background: transparent;
+}
+.button {
+  width: 85px;
+  background: transparent;
+  border: none;
+  padding: 0 auto;
+}
+.search-form {
+  position: absolute;
+  bottom: 65px;
+  right: 145px;
+}
